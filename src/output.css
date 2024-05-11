@@ -566,6 +566,10 @@ video {
   height: 1.5rem;
 }
 
+.h-24 {
+  height: 6rem;
+}
+
 .w-24 {
   width: 6rem;
 }
@@ -576,6 +580,10 @@ video {
 
 .w-32 {
   width: 8rem;
+}
+
+.w-48 {
+  width: 12rem;
 }
 
 .flex-row {
@@ -636,4 +644,12 @@ video {
 
 .font-medium {
   font-weight: 500;
+}
+
+.outline {
+  outline-style: solid;
+}
+
+.outline-1 {
+  outline-width: 1px;
 }

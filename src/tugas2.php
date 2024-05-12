@@ -6,7 +6,7 @@
     <title>PHP Form</title>
 </head>
 <body>
-    <form action="get">
+    <form method="get" action="tugas2output.php">
         <div class="h-24 w-48 outline-1 outline">
             <label for="name">Name</label>
             <input type="text" name="name" id="name">
